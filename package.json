@@ -1,6 +1,6 @@
 {
   "name": "consul",
-  "version": "0.7.0",
+  "version": "1.9.4",
   "description": "https://www.consul.io/",
   "dependencies": {},
   "scripts": {
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahdinosaur/debian-consul.git"
+    "url": "git+https://github.com/mkfischer/debian-consul.git"
   },
-  "author": "Mikey <michael.williams@enspiral.com> (http://dinosaur.is)",
+  "author": "Mike <mike@elasticramblers.com>",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/ahdinosaur/debian-consul/issues"
+    "url": "https://github.com/mkfischer/debian-consul/issues"
   },
-  "homepage": "https://github.com/ahdinosaur/debian-consul#readme"
+  "homepage": "https://github.com/mkfischer/debian-consul#readme"
 }
